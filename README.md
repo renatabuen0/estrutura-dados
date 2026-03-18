@@ -2,6 +2,12 @@
 
 Um sistema educacional que implementa uma **árvore de decisão** inspirada no jogo Akinator, com implementação de algoritmos de travessia **BFS** (Breadth-First Search) e **DFS** (Depth-First Search).
 
+## IDENTIFICAÇÃO
+**Nome:** Renata Cibelle Bueno Gonçalves    
+**Matrícula:** 2597573
+**Disciplina:** Estrutura de Dados Avançadas
+**Professor:** Amaury Nogueira Neto
+
 ## 📋 Descrição do Projeto
 
 Estruturas de dados e algoritmos de travessia de árvores através de um mini jogo de adivinhação. O sistema:
