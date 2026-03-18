@@ -1,0 +1,14 @@
+# Requisitos do Projeto Akinator
+# Este projeto usa apenas a biblioteca padrão do Python
+
+# Dependências padrão (incluídas no Python 3.6+):
+# - collections (deque para Queue)
+
+# Python mínimo: 3.6+
+python >= 3.6
+
+# Nenhuma dependência externa necessária!
+# Para instalar e executar:
+# 1. Ter Python 3.6+ instalado
+# 2. Clonar o repositório
+# 3. Executar: python main.py
